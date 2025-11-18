@@ -20,14 +20,6 @@ pinned: false
      style="display:inline-block; margin:6px 8px; padding:12px 22px; font-weight:700; text-decoration:none;
             border-radius:10px; color:#fff; background: linear-gradient(90deg,#ff7a18,#af002d 60%); box-shadow:0 6px 18px rgba(0,0,0,0.25);">
     ▶ Live Demo
-  </a>
-
-  <!-- Secondary CTA -->
-  <a href="https://github.com/wilson-in/Learning_recommender" target="_blank"
-     style="display:inline-block; margin:6px 8px; padding:10px 18px; font-weight:700; text-decoration:none;
-            border-radius:10px; color:#111; background:#e6eef8;">
-    📁 View Source
-  </a>
 </div>
 
 # 🧠 AI Learning Path Recommender
