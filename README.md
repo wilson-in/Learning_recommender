@@ -8,9 +8,17 @@ sdk_version: "1.40.0"
 app_file: app.py
 pinned: false
 ---
-<p align="center">
-  <a href="https://huggingface.co/spaces/wilsonl/Smart_career" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace-black?style=for-the-badge&logo=huggingface" alt="Live demo">
+<p align="left">
+  <a href="https://huggingface.co/spaces/wilsonl/Smart_career" target="_blank" style="
+    display: inline-block;
+    padding: 10px 18px;
+    background-color: #0969da;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 6px;
+    ">
+    Live Demo
   </a>
 </p>
 
