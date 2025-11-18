@@ -94,19 +94,31 @@ The entire system works:
 learning-recommender/
 │
 ├── app.py # Main Streamlit UI
+
 ├── courses.csv # Course metadata (offline catalog)
+
 ├── sample_profiles.json # 5 sample learner personas
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── .gitignore
+
 ├── LICENSE
+
 ├── INSTALL.md
+
 ├── CONTRIBUTING.md
 │
+
 ├── tests/
+
 │ └── test_compute_fit.py # Deterministic scoring unit tests
 │
+
 └── .streamlit/
+
 └── example.secrets.toml # Safe template for secret keys
 
 
@@ -117,7 +129,7 @@ learning-recommender/
 1. **Clone repo**
 
 
-git clone https://github.com/yourusername/learning-recommender.git
+git clone (https://github.com/wilson-in/Learning_recommender.git)
 
 cd learning-recommender
 
@@ -126,7 +138,9 @@ cd learning-recommender
 
 
 python -m venv .venv
+
 source .venv/bin/activate # Mac/Linux
+
 ..venv\Scripts\activate # Windows
 
 
