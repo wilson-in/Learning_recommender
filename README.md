@@ -8,19 +8,27 @@ sdk_version: "1.40.0"
 app_file: app.py
 pinned: false
 ---
-<p align="left">
-  <a href="https://huggingface.co/spaces/wilsonl/Smart_career" target="_blank" style="
-    display: inline-block;
-    padding: 10px 18px;
-    background-color: #0969da;
-    color: #ffffff;
-    font-weight: 600;
-    text-decoration: none;
-    border-radius: 6px;
-    ">
-    Live Demo
+<!-- Hero header: paste at top of README.md -->
+<div align="center" style="margin-bottom:18px;">
+  <h1 style="margin:6px 0 8px 0;">🧠 AI Learning Path Recommender</h1>
+  <p style="margin:0 0 18px 0; color:#bfc7cf; max-width:800px;">
+    Personalized course & career guidance — offline-first, explainable, and free. Try the interactive demo or explore the source.
+  </p>
+
+  <!-- Primary CTA (gradient) -->
+  <a href="https://huggingface.co/spaces/wilsonl/Smart_career" target="_blank"
+     style="display:inline-block; margin:6px 8px; padding:12px 22px; font-weight:700; text-decoration:none;
+            border-radius:10px; color:#fff; background: linear-gradient(90deg,#ff7a18,#af002d 60%); box-shadow:0 6px 18px rgba(0,0,0,0.25);">
+    ▶ Live Demo
   </a>
-</p>
+
+  <!-- Secondary CTA -->
+  <a href="https://github.com/wilson-in/Learning_recommender" target="_blank"
+     style="display:inline-block; margin:6px 8px; padding:10px 18px; font-weight:700; text-decoration:none;
+            border-radius:10px; color:#111; background:#e6eef8;">
+    📁 View Source
+  </a>
+</div>
 
 # 🧠 AI Learning Path Recommender
 ### Personalized Courses, Certifications & College Programs — Offline-First, Explainable & Free
