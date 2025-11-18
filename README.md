@@ -8,8 +8,11 @@ sdk_version: "1.40.0"
 app_file: app.py
 pinned: false
 ---
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-orange?logo=huggingface&style=for-the-badge)](https://huggingface.co/spaces/wilsonl/Smart_career)
-
+<p align="center">
+  <a href="https://huggingface.co/spaces/wilsonl/Smart_career" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace-black?style=for-the-badge&logo=huggingface" alt="Live demo">
+  </a>
+</p>
 
 # 🧠 AI Learning Path Recommender
 ### Personalized Courses, Certifications & College Programs — Offline-First, Explainable & Free
