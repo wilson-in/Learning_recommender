@@ -8,6 +8,7 @@ sdk_version: "1.40.0"
 app_file: app.py
 pinned: false
 ---
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-blue?logo=huggingface)](https://huggingface.co/spaces/wilsonl/Smart_career)
 
 # 🧠 AI Learning Path Recommender
 ### Personalized Courses, Certifications & College Programs — Offline-First, Explainable & Free
