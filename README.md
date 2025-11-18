@@ -92,6 +92,7 @@ The entire system works:
 ## 📁 Project Structure
 
 learning-recommender/
+
 │
 ├── app.py # Main Streamlit UI
 
