@@ -1,0 +1,8 @@
+streamlit==1.28.0
+pandas
+numpy
+scikit-learn
+requests
+networkx
+matplotlib
+REQ

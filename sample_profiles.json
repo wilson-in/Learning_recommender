@@ -1,0 +1,7 @@
+[
+  {"id":"A","name":"Aisha (Beginner CS grad)","education":"BSc Computer Science","tech_skills":["Python (basic)","SQL (basic)"],"soft_skills":["communication","teamwork"],"target_domain":"Data Analytics","preferred_hours":8,"user_level_guess":"beginner","target_job":"Data Analyst"},
+  {"id":"B","name":"Raj (Frontend dev → ML)","education":"BTech","tech_skills":["JavaScript","React","Python (intermediate)"],"soft_skills":["problem-solving"],"target_domain":"Machine Learning","preferred_hours":10,"user_level_guess":"intermediate","target_job":"ML Engineer"},
+  {"id":"C","name":"Maya (Career switcher)","education":"BA Economics","tech_skills":["Excel","SQL (basic)"],"soft_skills":["analytics","presentation"],"target_domain":"Product Analytics","preferred_hours":6,"user_level_guess":"beginner-intermediate","target_job":"Product Analyst"},
+  {"id":"D","name":"Arjun (Advanced ML)","education":"MSc Data Science","tech_skills":["Python","PyTorch","ML","Docker"],"soft_skills":["leadership"],"target_domain":"MLOps","preferred_hours":12,"user_level_guess":"advanced","target_job":"MLOps Engineer"},
+  {"id":"E","name":"Priya (Full-stack dev)","education":"BTech","tech_skills":["Node.js","React","SQL"],"soft_skills":["collaboration"],"target_domain":"Full-Stack Web","preferred_hours":8,"user_level_guess":"intermediate","target_job":"Full-Stack Engineer"}
+]
